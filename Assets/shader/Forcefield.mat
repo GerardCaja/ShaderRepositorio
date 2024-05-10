@@ -38,13 +38,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Collision_Efect: 5.9
-    - _Fresnel_Power: 6
-    - _Inner_Transparency: 0.05
+    - _Collision_Efect: 23.3
+    - _Fresnel_Power: 24.6
+    - _Inner_Transparency: 0.001
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 1.0023669, g: 5.6309443, b: 2.1754684, a: 0}
+    - _Color: {r: 5.6309443, g: 2.2134864, b: 1.0023669, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &862645319476139574
 MonoBehaviour:
